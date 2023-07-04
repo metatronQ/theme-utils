@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="BaseLiveTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="base_theme_color">@color/base_theme_live_product</item>
+    </style>
+
+    <style name="BaseLiveThemeDark" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="base_theme_color">#FF0000</item>
+    </style>
+
+</resources>
